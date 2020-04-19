@@ -59,3 +59,26 @@ Myers Briggs Test Result - INFP(Highly Independent, Seek out creativity and free
 Online Learning Style Result - Kinesthic Learner(Learning through hands-on experience, often bored with traditional textbook learning, so pretty up a Visual Learner)
 
 Creativity Test Result - 48.75( Average mark is 63.13, seeks for creativity but is more suitable to work manually.
+
+## Ideal Jobs
+
+## Industry Data
+
+### Hayden
+
+The occupation of network administrator falls under the title of systems administrator. The demand for this role is fairly high-ranking 8th in the active selections for the last 365 days in Australia and New Zealand.
+
+The required IT specific skills in required skill set and their rank in demand from employees is as follows:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+SQL | 3570 | 1st
+Microsoft Windows | 2699 | 4th
+Project Management | 2252 | 5th
+SAP | 2189 | 6th
+Net Programming | 1370 | 16th
+
+The Three Highest Ranking IT specific skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
