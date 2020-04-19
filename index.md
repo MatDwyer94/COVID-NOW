@@ -18,7 +18,7 @@ I am a 20-year-old student studying information technology as a bridge into soft
 
 s3856099
 
-I’m a 24 yearly from Newcastle Australia. I currently work for llianz Australia. I know a lot… if not too much about the Simpons. I can usually identify an episode within the first 30 seconds.
+I’m a 24 yearly from Newcastle Australia. I currently work for Allianz Australia. I know a lot… if not too much about the Simpons. I can usually identify an episode within the first 30 seconds.
 
 ### Min Jung Hong
 
@@ -103,6 +103,8 @@ Required Skill | Active Listings | Rank
 Writing | 15590 | 4th
 Teamwork/Collaboration | 14364 | 5th
 Detail-Oriented | 8298 | 8th
+
+Looking at the Burning Glass Data, my opinion on my ideal job hasn't changed. Having my Diploma in Leadership & Management, I hold a lot of the generic skills required. I will continue to tailor my learning experience in the direction required & undertake the required learnings in order to hopefully achieve my ideal job.
 
 ### Rashad
 
@@ -192,6 +194,12 @@ Communication Skills | 44367 | 1st
 Writing | 15590 | 4th
 Teamwork/Collaboration | 14364 | 5th
 
+Having look at the Burning Glass data, my opinion of my ideal job has changed. Cyber analytic is
+more based on using data and coding, but as I have a associate degree in marketing, It would
+better for me to have an ideal job such as web designing or IT business. Skills I have learned are
+both marketing in business and designing websites, through my past degree it may be useful for
+the new ideal jobs.
+
 ### Mathew
 
 The occupation of automation engineer can be closely related to the position of systems engineer. This role is extremely popular ranking in at 4th in terms of active selections in the last 365 days for Australia and New Zealand. With 786 Active selections, systems engineer is well above the average. Therefore, it is safe to assume that the role is in great demand by employers.
@@ -277,7 +285,7 @@ This is important, because it enables anyone who would like to use the technolog
 
 None of these would ever have been possible if it wasn’t for the advent of microelectronics and IC’s. Because an IC is basically an entire circuit made extraordinarily small and put inside a tiny chip, the development of being making electronics smaller and smaller was absolutely crucial. The largest impacts of this technology come from large scale automation, and accessibility of electronics for learning. Due to the low cost of these items, they are being used much more by educators to teach people at younger and younger ages, basic coding and electronics skills. This is extremely important as these skills are becoming much more valuable and sought after in todays job climate, especially as more jobs become automated.
 
-The automation of jobs will have both a negative and positive impact on jobs. While it will eliminate certain positions and greatly reduce or completely eliminate the need for certain skills, it will create a large need for people who can build, repair, operate and maintain these machines. This will primarily effect people with simple repetitive jobs, as those will eb the easiest to automate. So far, the technology does still have its limits.
+The automation of jobs will have both a negative and positive impact on jobs. While it will eliminate certain positions and greatly reduce or completely eliminate the need for certain skills, it will create a large need for people who can build, repair, operate and maintain these machines. This will primarily effect people with simple repetitive jobs, as those will be the easiest to automate. So far, the technology does still have its limits.
 
 Another big effect will be on the manufacturing sector. The ability to rapidly prototype and experiment makes the process of designing a new product much simpler and quicker. Even with physical manufacturing, 3D printers, which almost all rely on an Arduino based motherboard, have made it extremely easy to test product designs to find any physical flaws in it’s design, without having to waste time and expensive materials on creating full scale prototypes. In my own life, it effects what sorts of things I choose to study and learn to help my career prospects in the future. For example, I have been learning about 3D printing technologies and arduinos in my own spare time, both for my own curiosity, as well as building helpful skills for my desired future career.
 
@@ -285,7 +293,7 @@ I don’t believe there will be more effects on my family, than most other peopl
 
 I can feasibly see it affecting my father as he is an electrician, and it may become expected for them to have at least a basic knowledge of how these things work to be able to install them in homes where in built home automation is desired.
 
-My friends will likely be affected quite a lot more, due to them being in a wide variety of inductries. In fact, due to the current global issues happening right now (I.e Coronavirus) it may happen sooner than expected. Friends working in nursing have seen people who are trying to help make up for the lack in medical equipment designed to handle this situation. They are designing such things as cheap and easily made automatic ventilators, and other people using 3D printers to create face masks and other exceedingly useful equipment.
+My friends will likely be affected quite a lot more, due to them being in a wide variety of industries. In fact, due to the current global issues happening right now (I.e Coronavirus) it may happen sooner than expected. Friends working in nursing have seen people who are trying to help make up for the lack in medical equipment designed to handle this situation. They are designing such things as cheap and easily made automatic ventilators, and other people using 3D printers to create face masks and other exceedingly useful equipment.
 
 ## Cybersecurity
 
@@ -346,8 +354,7 @@ there are already some that exists.
 “The recent ransomware attack against the US city of Baltimore, for example, locked 10,000
 employees out of their workstations. In the near future, smart city infrastructures will provide
 interconnected systems at a new scale, from transport systems for driverless cars, automated
-water and waste systems, to emergency workers and services, all interdependent and - potentially
-- as highly vulnerable as they are highly connected. In 2017, the WannaCry attack that took parts
+water and waste systems, to emergency workers and services, all interdependent and - potentially - as highly vulnerable as they are highly connected. In 2017, the WannaCry attack that took parts
 of the UK’s National Health Service down took days to spread globally, but in a 5G era the malware
 would spread this attack at the speed of light. It is clear that 5G will not only enable great prosperity
 and help to save people’s lives, it will also have the capacity to thrust cybercrime into the real world
@@ -358,7 +365,7 @@ at a scale and with consequences yet unknown”(Dmitry Samartsev,2019).
 The use of usernames and passwords are one of the well known shortcoming in cybersecurity, and
 there is a need for a more strong and secure form of authentication. One of the recent technologies
 is the use of authentication hardware.
-For example, “Intel is now using this technology where it combines a variety of hardwareenhanced
+For example, “Intel is now using this technology where it combines a variety of hardware enhanced
 factors simultaneously to validate a user’s identity. Hardware authentication is
 particularly important in IoT where networks need to make sure that anything trying to gain access
 to it is permitted to do so”(Unknown).
@@ -385,7 +392,7 @@ As long as our network is well protected and maintained, I do not think there wi
 on my friends and family. But we cannot assume it is safe, because there are always unexpected
 things that might happen.
 
-### Cloud Services and Servers
+## Cloud Services and Servers
 
 Cloud technology is accessing and storing data over the internet instead of a physical hard drive.
 Put simply, this technology assists in the delivery of different services including accessing things
@@ -459,7 +466,7 @@ person’s social skills and mental health. My goal in this field is to get into
 hopefully the technology continues to grow and become dependant on allowing future potential
 opportunities for myself and others with interest in this field.
 
-### Blockchain and Cryptocurrencies
+## Blockchain and Cryptocurrencies
 
 **What does it do?**
 
@@ -475,3 +482,285 @@ form of currency and researched the new craze. Bitcoin remains the leader with a
 approximately $7,000 and a Market Cap of 129.73 billion dollars whereas Ethereum has a value of
 $170.89 and a market cap of 18.79 billion dollars. Lastly, Ripple, which has a miniscule value of
 $0.1885 to date but relies on it’s market cap of $8.31 billion dollars to thank for its popularity.
+
+_What can be done now?_
+
+So what can be done now? The process of acquiring cryptocurrencies is quite simple. Similar to
+how most acquire currency, completion of a task or job is required to accumulate cryptocurrency.
+The accumulation of earning cryptocurrency and completing this exchange is called mining
+cryptocurrency or cryptomining. When a sale or purchase is made using cryptocurrency, it is called
+a ‘transaction’. Cryptocurrencies are decentralised meaning that they are not reliant on a
+middleman or third party such as banks and point of sale systems. Due to the fact they are
+decentralised, miners must achieve the same effect without these institutions, which is done by
+collecting transactions together in “blocks”. These are then further organised and collected into a
+public record called a blockchain. A major part of the process is miners ensuring that the
+transactions are accurate. To be more precise, the issue of double spending needs to be negated.
+
+The process of mining can be summarised into four steps. The first being that they must verify 1
+megabyte of transactions. Theoretically, this amount can be 1 transaction but in most cases are
+several thousand depending on the amount of data each transaction stores. Second, when adding
+a block to the blockchain, miners must add a proof of work which is the solution to a complex
+computational math problem. They must come up with a 64-digit hexadecimal number known as a
+“hash” that is equal to or less than the target hash. This is completely random as a miner’s
+computer spits out hashes at different rates (mega hashes, giga hashes or tera hashes) guessing
+the possible 64-digit figures until a solution is derived.
+
+_What is likely to be able to do be done soon (say in the next 3 years)?_
+
+With the recent pandemic affecting the world, many have lost sources of income and look for new
+ways to provide for their families. With no real time frame on when the end of quarantine let alone
+a cure will come, there is a multitude of individuals looking for a form of income. Especially due to
+social distancing, the mining of cryptocurrency is a very valid form of income. Within the next 1-2
+years, I expect to see leaps and bounds in the amount of crypto-miners.
+
+_What technological or other developments make this possible?_
+
+Due to the sheer immense power and processing demands, using an every day computer is a
+sheer disadvantage and may become a liability. Instead, computers have been made with
+processors that are capable to keep up with those demands and limit power consumption to the
+very necessary needed. These computers although very simplistic make mining for
+Cryptocurrency a lot more convenient than other models that are more complex.
+
+**What is the likely impact?**
+
+_What is the potential impact of this development?_
+
+The primary shift from conventional banking methods is inevitable. Within a digital age that thrives
+on technology, it is only a matter of time until the procedures we take and even our currencies
+become digital. Unifying and incorporating other countries into the market of cryptocurrency is a
+major potential impact. In a global scale, the nature of the cryptocurrency market (noncorrelated)
+acts as a potential hedge against any risks that may come up. For example, the government of
+Venezuela have recently created and launched the Petro, it’s own cryptocurrency made to
+circumvent the capital restrictions the country is under.
+
+_Which people will be most affected and how?_
+
+In some shape, way or form we are all affected by an exponential surge in cryptocurrency. But
+those that would be majorly affected would be those in third world countries or whose domestic
+currency is mismanaged. The intolerable steady decline in value of these currencies make the idea
+of cryptocurrencies, which are still a gamble, much more ideal to their situation. In countries that
+have put strict capital controls in place which then control the flow of money or have high taxes,
+cryptocurrencies can be used to circumvent capital controls and taxes. In the grand scheme some
+of these may not be legal transactions and so the good does come with the bad. In the grand
+scheme, the positive side of cryptocurrencies severely outweigh the negatives.
+
+_Will this create, replace or make redundant any current jobs or technologies?_
+
+The rise of cryptocurrencies has led to the creation of jobs. With a blooming market that is
+individual and separate from most other markets, it is very difficult for cryptocurrencies to replace
+or make other jobs redundant. The jobs that have been created within the market of Crypto include
+miners, data scientists, developers, project managers and cryptocurrency analysts.
+
+**How will this affect you?**
+
+_In your daily life, how will this affect you?_
+
+Cryptocurrencies have formed many jobs since it’s creation which have acted as a solid form of
+income for some and a side hustle for many. In the current state of the world, with the pandemic
+affecting many homes and limiting the income available and the roles provided to create the
+stream of income, cryptocurrencies have created a stream to retrieve that income. Whilst many
+jobs have been shutdown as we are forced to stay indoors, working from home and utilising
+equipment geared to crypto may come as a blessing in this time. With speculation of a financial
+crisis coming, the use of crypto may come handy when markets take a plummet, as it is non
+dependant on other markets.
+
+_What will be different for you?_
+
+For the meantime the form in which I receive my income, however, in the long term the use of
+digital and cryptocurrencies may become more common. Some jobs may even become dependant
+on the skills needed to add to blockchains and knowledge of cryptocurrencies might become a vital
+skill.
+
+_How might this affect members of your family or your friends?_
+
+When looking at a social affect, not in the greater population but simply in our small circles, we
+must think of both the good and the negative. The positive effects are the addition of an income
+stream for some of those who may not have one at the moment, the possibility to utilise
+transactions that are digital minimizing the effects of the coronavirus and allowing a market to
+flourish in a time where it was set to plummet and the usability of the P2P or person to person
+feature to make transactions between people or a group easier. The negatives also include the
+possibility of this money being used incorrectly or fraudulent data being utilised. To be more
+specific double spending. The elderly will struggle at first with grasping the technology and this is a
+major risk as they may need to adapt and of it is not done quickly or at all, this will put them at
+potential risk of being scammed.
+
+# Project Ideas
+
+Individual’s project ideas were creating an application, but as two team members came up with
+current sudden explosion in cases of Covid-19, we decided to create an app and a device that can
+be useful for Covid-19.
+
+## Overview
+
+Our project will be creating an app and a device that allow the users to utilise its functions to both
+call and monitor the wearer of the device. The device should be a wristband and the app should be
+available to both IOS and Android devices. It will be given out for those who got caught of the virus
+for those remain self-quarantine at home with symptoms. The basic monitoring needs should be
+heart rate, blood pressure and body temperature. It can also be utilised with the elderly and those
+with illnesses or disabilities. The ability to drop in should be one way but an emergency drop in
+button will be added in case a call towards the user needs to be placed.
+
+The app will have a two sections, personal health and Covid-19. Personal health section will show
+what is being monitored in the device. The users of this app can send their daily health
+results(heart rate, blood pressure and body temperature), created as an email to the
+National Corona Virus Helpline or to a hospital that deals with Covid-19 if they need to report.
+For Covid-19 section, it will show world wide graphs of people who got infected, died and cured.
+But the main informations will be focused on Australia’s current Covid-19 situation. It will have upto-
+dated news and any reported case of new infected patients. This app will give every little details
+of Covid-19.
+
+## Motivation
+
+Not only Australians but people around the world are panicking and afraid of what is happening
+right now and that is also including our team member. People always want to know all the little
+things related to this situation, like many people have been tested positive, died and cured. Also
+there those people have been in contacted while they did not find out they were tested positive.
+Even though these details are quickly undated in the news, media and through people’s mouth,
+people are still slow and some might not look up for a news.
+
+For the device, one of the major reasons people are travelling instead of locking down is to visit
+family or friends. With elderly people being most at risk of the virus, most travel would be directed
+towards them. The ability to drop in on those you hold near and dear that may not have the
+electronic understanding is vital and could help keep travelling to the minimum. The ability to
+monitor them from the comfort of an app will also minimise the travel.
+
+## Description
+
+First of all, the app is all about COVID-19 and the patients health checks.
+It is always so hard to get in touch with exact information about what is going on around this
+country and the world. People normally tend to get informations through media, younger people
+may get informations from Facebook or by moouth to mouth from their peers, so there are always
+some errors on the information, fake news and vides. The app will have all the information about
+COVID-19, it will be handy as because rather then searching up news from google and Facebook it
+will show everything in one click to the app. The informations will be accurate as it will based on
+Australia Government Department of Health.
+
+Health monitoring is the one of the major feature for the device. The desired aspects it would
+monitor are body temperature, blood pressure and heart rate. These are the easiest and most
+feasible of the human "vitals" to monitor in a device this size. These vitals are also very simplistic
+monitors of health.
+
+The app will be essential to the project and will be used by those monitoring. As this device is
+being used to monitor, it will be of great use if a feature of the app was a tracker.
+
+The service will include:
+
+_Current Status_
+
+- Current situation and case number In Australia and Current situation and case number across
+the world showing graphs and number of those got infected, death and cured.
+- Official Government response and alerts to the COVID-19 outbreak
+- A Map showing locations where confirmed cases of COVID-19 has happened with time and
+date(information based on Australian Government Health Alert)
+
+_Information about COVID-19_
+
+- Latest News and Media(videos) related to COVID-19 for Australia and Worldwide
+- Resources( A list of resources in English about COVID-19, including fact sheets, guidelines and
+other publications, there will a link connected to Department of health page so users can
+download easily into their phones and tablet PCs
+- Frequently asked question about COVID-19
+- Symptoms(List of symptoms listed form early stage of the virus.
+- How to protect guide(List of to do list to prevent from catching the virus)
+- List of hospitals and clinics where concerned users with symptoms can get tested with specific
+details(name of the hospital/address)
+- Conversation section where users can write about their concerns and opinion about the
+situations
+- Users can share information about where and what time users can get essential supplies(If the
+users set their location it will show the nearest supermarket)
+- Phone number of National Corona Virus Helpline
+- It will give alerts for new cases that have been founded, for example “Myer Castle Hill has
+closed immediately after it was confirmed an employee had contracted COVID-19”
+- “ Total number of confirmed case of COVID-19 reached up to 1000 in Australia”
+If the users click this alert it will direct them to the page about the news.
+
+_Personal Health Checks_
+
+- monitor body temperature, blood pressure and heart rate.
+- Daily, weekly and monthly data will be stored and graphed.
+- Overall monitoring and real-life data but by using this data, the app and device can calibrate to
+ensure that real data is used instead of estimates.
+- When real data is used the accuracy of alerts and monitoring also increases.
+
+_The Device_
+
+- Will have ability to “drop in” which is pared with the feature of real time GPS.
+- When logged into the app, the device will feed the wearers geographical location to the app.
+- The geographical location feature also plays a crucial part if anything were to go wrong with the
+wearer
+- When the emergency drop in button is used on the wearer's device, the device will attempt to
+contact 3 saved contacts within the database.
+- Whoever picks up first will have the option to call the emergency number of whatever country
+the wearer is in. This is why it is imperative to have geographical location on the device.
+- The last feature will be the ability to share results and data recorded on the app.The recored
+data can be sent straight away to clinics and hospitals near by the of the wearers place using
+real time GPS.
+
+## Tools and Technologies
+
+To create an app, MIT App Inventor based on Firebase will be needed.
+Firebase will be useful to update any number of apps with new data. In addition by using Firebase
+as a datastore, it allows to leverage its website authentication in the apps to take care of the user
+management needs for example sign-up and login. Javascript code will also be needed to as it
+include a static HTML file, which then can be added to the apps created with App Inventor. By
+making simple modifications it allows the App Inventor to look inside the running javascript. The
+hardware needed would be the casing and shell of the device. The shell component will need to be
+sturdy due to the wearers and must be of a light material whilst being aesthetically appealing. A
+clean plastic casing with a comfortable yet breathable silicone wristband.
+
+## Skills required
+
+Required skills are:
+
+- Designing the app, the appearance is important as users want it to be attractive as well as
+delivering a smooth experience and value.
+- product management, get to know the client’s vision behind the app.
+- Communication, between the team. Inventor, design, product managing.
+- Cross- Platform, Android, iOS, or Windows
+- Data Collected and Market research, Date will show how the app is recognised and will show
+the end-results.
+- Coding, such as HTML5, Java, C++, Objective-C, Swift and C#.
+- Security, Users private information must be secured. and to as the app is data based, it has to
+make sure no one can heck the app and change the date.
+- Marketing, to let people know that this kind app exist in the market
+
+## Outcome
+
+If the project is successful, it would greatly impact those who care for the elderly, and
+those with an illness during self-quarantine. Even though this project is focused on COVID-19,
+people can still use the device as their health tracker and later on when COVID-19 become less
+popular in our society, the app can contain other health alerts and tips and other health related
+informations.
+
+# References
+
+Microsoft.com. (2019). What Is Cloud Computing? A Beginner’s Guide | Microsoft Azure. [online]
+Available at: https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/.
+
+Ranger, S. (2018). What is cloud computing? Everything you need to know about the cloud,
+explained. [online] ZDNet. Available at: https://www.zdnet.com/article/what-is-cloud-computingeverything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/.
+
+Knorr, E. (2018). What is cloud computing? Everything you need to know now. [online] InfoWorld.
+Available at: https://www.infoworld.com/article/2683784/what-is-cloud-computing.html.
+
+What is Platform as a Service (PaaS)? - Definition from WhatIs.com (2019). What is Platform as a
+Service (PaaS)? - Definition from WhatIs.com. [online] SearchCloudComputing. Available at:
+https://searchcloudcomputing.techtarget.com/definition/Platform-as-a-Service-PaaS.
+
+Sumo Logic. (n.d.). What is Cloud Infrastructure? | Sumo Logic. [online] Available at: https://www.sumologic.com/glossary/cloud-infrastructure/ [Accessed 17 Apr. 2020].
+
+Ahmad Dar, A. (2018). Cloud Computing-Positive Impacts and Challenges in Business
+Perspective. Journal of Computer Science & Systems Biology, 12(01).
+
+Cisco(Unknown), “What is Cybersecurity?” [Online]
+https://www.cisco.com/c/en_au/products/security/what-is-cybersecurity.html
+
+ecpi.edu(Unknown), “New Technology to Improve Cyber Security that You Should Know
+About” [Online]
+https://www.ecpi.edu/blog/new-technology-to-improve-cyber-security-that-you-should-know-about
+
+Gil Press(2019), “141 Cybersecurity Predictions For 2020” [Online]
+https://www.forbes.com/sites/gilpress/2019/12/03/141-cybersecurity-predictions-for-2020/#50fbd7661bc5
+
+Forbes(2018), “How Cyberattacks Will Affect The Average Person In 2018” [Online]
+https://www.forbes.com/sites/quora/2018/01/30/how-cyberattacks-will-affect-the-average-personin-2018/#4d9c31205efa
