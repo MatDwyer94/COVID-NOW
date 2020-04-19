@@ -6,11 +6,15 @@
 
 ### Mathew Dwyer
 
+https://matdwyer94.github.io/COSC2196-Assignment-1/
+
 s3807459
 
 I have had several jobs, primarily in hospitality and retail. I have had some volunteer roles running stage sound and lighting for my local regional show. My hobbies include building and working on electronics, designing projects for arduino and playing DnD. My primary interest in IT is in software design, automation, and cybersecurity. Currently I don’t have any formal experience in IT, but I am self taught in a lot of areas. I currently help maintain the website at the current retail place I work at.
 
 ### Rashad Viviers
+
+https://rashadv.github.io/RashadV/
 
 s3851521
 
@@ -18,11 +22,15 @@ I am a 20-year-old student studying information technology as a bridge into soft
 
 ### Hayden Roworth
 
+https://github.com/haydenroworth/RMIT-Assignment
+
 s3856099
 
 I’m a 24 yearly from Newcastle Australia. I currently work for Allianz Australia. I know a lot… if not too much about the Simpons. I can usually identify an episode within the first 30 seconds.
 
 ### Min Jung Hong
+
+https://susie220.github.io/Assignment1-/
 
 s3755242
 
@@ -919,6 +927,42 @@ How well we got stuck in with no one complaining. Everyone completing their work
 _At least one thing that you have learned about groups_
 
 Having clear communication helps deliver a good outcome.
+
+### Rashad
+
+_What went well_
+
+The group was very effective in terms of communication and time management.  The group managed to play into each other’s strengths. With no clear leader, the group was able to be dependant and independent when needed and knew when to contribute and when to take a step back. This was imperative to our success.
+
+_What could be improved_
+
+Setting deadlines and planning could definitely be improved. These would’ve helped but definitely are extras as the teamwork was very smooth.
+
+_At least one thing that was surprising_
+
+The teamwork was very effective. Everything was completed on time and no arguments came up. The teamwork made this assignment smooth.
+
+_At least one thing that you have learned about groups_
+
+It is important to rely on other’s skills and abilities. It also pays to listen and learn instead of constantly looking for ways to contribute.
+
+### Matthew
+
+_What went well_
+
+The group seemed to have fairly decent communication and cohesiveness. Everyone was extremely agreeable and cooperative, meaning decision making was very quick and easy.
+
+_What could be improved_
+
+The grouo came together rather late. so it did limit the time we had to complete the assignment and figure out what everyone did. I think trying to find a tool to share and have everyones work in one place and organised would be beneficial rather than sharing it all over the messaging app.
+
+_At least one thing that was surprising_
+
+How easily we all came together and there was no arguing or push back.
+
+_At least one thing that you have learned about groups_
+
+That is have skills that other don't and that they can be utilised quite well.
 
 # References
 
