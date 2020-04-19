@@ -979,7 +979,7 @@ What is Platform as a Service (PaaS)? - Definition from WhatIs.com (2019). What 
 Service (PaaS)? - Definition from WhatIs.com. [online] SearchCloudComputing. Available at:
 https://searchcloudcomputing.techtarget.com/definition/Platform-as-a-Service-PaaS.
 
-Sumo Logic. (n.d.). What is Cloud Infrastructure? | Sumo Logic. [online] Available at: https://www.sumologic.com/glossary/cloud-infrastructure/ [Accessed 17 Apr. 2020].
+Sumo Logic. (n.d.). What is Cloud Infrastructure? - Sumo Logic. [online] Available at: https://www.sumologic.com/glossary/cloud-infrastructure/ [Accessed 17 Apr. 2020].
 
 Ahmad Dar, A. (2018). Cloud Computing-Positive Impacts and Challenges in Business
 Perspective. Journal of Computer Science & Systems Biology, 12(01).
