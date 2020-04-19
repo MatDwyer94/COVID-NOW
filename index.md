@@ -82,3 +82,159 @@ The Three Highest Ranking IT specific skills outside of the required skill set a
 
 Required Skill | Active Listings | Rank
 ------------ | ------------- | ----------
+Javascript | 2946 | 2nd
+Java | 2860 | 3rd
+Business Management | 2141 | 7th
+
+The required Generic skills in required skill set and their rank in demand from employees are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+Communication Skills | 44367 | 1st
+Problem Solving | 16445 | 2nd
+Organisational Skills | 15590 | 3rd
+Troubleshooting | 11471 | 6th
+Planning | 11315 | 7th
+
+The three highest ranking general skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+Writing | 15590 | 4th
+Teamwork/Collaboration | 14364 | 5th
+Detail-Oriented | 8298 | 8th
+
+### Rashad
+
+The occupation of Software engineer ranks 11th in the list of active selections for the last 365 days in Australia and New Zealand. This is little above the halfway mark of the listings and is slightly above the average in terms of active listings.
+
+The required IT specific skills in required skill set and their rank in demand from employees is as follows:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+SQL | 3570 | 1st
+Javascript | 2946 | 2nd
+Java | 2860 | 3rd
+Microsoft Windows | 2699 | 4th
+Project Management | 2252 | 5th
+SAP | 2189 | 6th
+Microsoft C# | 1643 | 12th
+Software Engineering | 1372 | 15th
+
+The Three Highest Ranking IT specific skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+Business Management | 2141 | 7th
+Business Relationships | 2119 | 8th
+Business Analysis | 2096 | 9th
+
+The required Generic skills in required skill set and their rank in demand from employees are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+Communication Skills | 44367 | 1st
+Problem Solving | 16445 | 2nd
+Organisational Skills | 15590 | 3rd
+Teamwork/Collaboration | 14364 | 5th
+Troubleshooting | 11471 | 6th
+Detail-Oriented | 8298 | 8th
+Creativity | 7457 | 9th
+
+The three highest ranking general skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+Writing | 15590 | 4th
+Research | 7227 | 10th
+Leadership | 5144 | 11th
+
+Having looked at the Burning Glass data, my opinion of my ideal job has not changed. It is important to not that the IT and general skills needed are highly desirable and this means that flexibility and movement is a viable option if needed. The role is also extremely attractive and although not as high up in demand, the skills developed make it thoroughly enjoyable and worthwhile.
+
+### Min
+
+The occupation of Cyber analyst falls under test analyst in the rankings. This is ranked 10th in terms of active selections within the last 365 days for Australia and New Zealand. Being above the mean in terms of number of active selections, it is safe to assume that this is a higher demanded occupation from employees.
+
+The required IT specific skills in required skill set and their rank in demand from employees is as follows:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+Project Management | 2252 | 5th
+SAP | 2189 | 6th
+Technical Support | 1830 | 11th
+Net Programming | 1370 | 16th
+Systems Engineering | 1037 | 24th
+
+The Three Highest Ranking IT specific skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+SQL | 3570 | 1st
+Javascript | 2946 | 2nd
+Java | 2860 | 3rd
+
+The required Generic skills in required skill set and their rank in demand from employees are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+Problem Solving | 16445 | 2nd
+Organisational Skills | 15590 | 3rd
+Troubleshooting | 11471 | 6th
+Detail-Oriented | 8298 | 8th
+Research | 7227 | 10th
+Analytical Skills | 2997 | 17th
+
+The three highest ranking general skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+Communication Skills | 44367 | 1st
+Writing | 15590 | 4th
+Teamwork/Collaboration | 14364 | 5th
+
+### Mathew
+
+The occupation of automation engineer can be closely related to the position of systems engineer. This role is extremely popular ranking in at 4th in terms of active selections in the last 365 days for Australia and New Zealand. With 786 Active selections, systems engineer is well above the average. Therefore, it is safe to assume that the role is in great demand by employers.
+
+The required IT specific skills in required skill set and their rank in demand from employees is as follows:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+SQL | 3570 | 1st
+Javascript | 2946 | 2nd
+Java | 2860 | 3rd
+Microsoft Windows | 2699 | 4th
+Project Management | 2252 | 5th
+SAP | 2189 | 6th
+Technical Support | 1830 | 11th
+Microsoft C# | 1643 | 12th
+Linux | 1632 | 13th
+Systems Engineering | 1037 | 24th
+
+The Three Highest Ranking IT specific skills outside of the required skill set are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+Business Management | 2141 | 7th
+Business Relationships | 2119 | 8th
+Business Analysis | 2096 | 9th
+
+The required Generic skills in required skill set and their rank in demand from employees are:
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | -------------
+Communication Skills | 44367 | 1st
+Problem Solving | 16445 | 2nd
+Organisational Skills | 15590 | 3rd
+Teamwork/Collaboration | 14364 | 5th
+Troubleshooting | 11471 | 6th
+Planning | 11315 | 7th
+Detail-Oriented | 8298 | 8th
+Creativity | 7457 | 9th
+Time Management | 5059 | 12th
+
+Required Skill | Active Listings | Rank
+------------ | ------------- | ----------
+Writing | 15590 | 4th
+Research | 7227 | 10th
+Leadership | 5144 | 11th
