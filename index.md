@@ -1,3 +1,5 @@
+# Team Name - COVID-NOW
+
 # Team Profiles
 
 ## Personal Information
@@ -61,6 +63,148 @@ Online Learning Style Result - Kinesthic Learner(Learning through hands-on exper
 Creativity Test Result - 48.75( Average mark is 63.13, seeks for creativity but is more suitable to work manually.
 
 ## Ideal Jobs
+
+### Hayden
+
+My dream or ideal job: href='https://www.seek.com.au/job/41153311?type=standard#searchRequestToken=2e65d6c4-5fad-4098-914b-d47849b89144'> Network Administrator
+
+**Description of Position**
+
+The role of a network administrator makes you responsible for maintenance of a specific
+computer network as well as solving any problems that occur with them. This appeals to
+me because I enjoy being hands on as well as helping people. Being on the ground
+essentially & trouble shooting makes it appealing as every day could be different
+administrator and filled with different challenges.
+
+**Skills and Qualifications required**
+
+Qualifications for this role generally require a degree in network administration as well as
+systems administration training. Effective communication skills are key as well as the
+ability to demonstrate effective problem solving.
+
+**Current Skills and Qualifications**
+
+I currently have a basic understanding of the following:
+- Setting up a network with multiple PCs, enabling sharing, printing etc
+- Ability to troubleshoot a number of networking issues
+
+**Plan to attain Skills and Qualifications**
+
+I hope to obtain the relevant skills required for this position throughout the course of this
+course. Ideally, after the basics are learnt I would like to tailor my courses toward this
+position, ideally focusing on networking/cloud subjects to assist in growing my knowledge
+and exposure.
+
+### Rashad
+
+![Job Advertisement](/idealJob3.jpeg)
+![Job Advertisement](/idealJob4.jpeg)
+
+**A description of the position**
+
+The position calls for a software engineer. A software engineer deals with the crafting,
+designing and development of software. Once it is developed, they look after testing,
+evaluating and maintaining the software. This position is extremely appealing to me as I
+am a very creative person who like puzzles. As each problem is similar to a puzzle, I look
+to find the best solution of coding to perfectly fix the problem. The position is one that
+requires a lot of patience and resilience which are two of my strongest characteristics.
+
+**Skills and qualifications required**
+
+The skills needed include the ability to code in multiple forms of coding. To get this high
+level of coding skill I will need to complete a degree in information technology. By
+completing the degree, I will learn the programming basics and advanced skills in all the
+types of code mentioned in the job description. The skill to work cohesively in a team of
+programmers is a necessity. The job description also implies that the person that fills this
+role would need to have an outgoing personality as they are willing to help the successful
+candidate build up their knowledge and fulfill personal goals in relations to programming.
+
+**Current skills and qualifications**
+
+Although I do have the ability to work cohesively in any team I am put into, I am
+unfortunately lacking the practical skills and knowledge of coding. I am very outgoing and
+find the idea of the employer being so open to supporting the successful candidate in their
+pursuit of personal development extremely attractive. I have the ability to think outside
+the box which will benefit me in creating each solution. I also possess a keen eye for
+detail which will make the designing and development process of creating the software a
+lot easier.
+
+**Plan to attain Skills and Qualifications**
+
+The required skills in coding are only obtainable by university study. A qualification in
+Information technology will help me bridge into software engineering, where I can gain an
+understanding on each type of coding and how to put it into practice. To be placed into a
+role like this some experience in utilising university knowledge into practical use is
+necessary. To gain the necessary experience, I hope to hold an entry level position in a
+similar role.
+
+### Mathew
+
+[Job Advertisement](https://www.seek.com.au/job/41197236?type=standout#searchRequestToken=87f66953-8eb5-4f6b-9d22-b4a5a82b818a)
+![Job Advertisement](/jobListing.png)
+
+**Description of Position**
+
+An engineer that helps create and implement automation systems using various different
+technologies. I have always loved the idea of automation and making technology do the
+work for you so this would be an incredibly interesting job.
+
+**Skills and Qualifications required**
+
+Knowledge in an extremely wide variety of progamming and coding languages would be
+essential as well as how they interact with different frameworks. Even how the
+frameworks work together. It would also be extremely helpful to know how electronics
+work to be able to more efficiently create code for it. Qualifications in IT and possibly
+electrical engineering would be necessary/advantageous to be successful at a job like this.
+
+**Current Skills and Qualifications**
+
+I currently have basic programming skills and electronics knowledge. But still not on the
+level needed for a job of this level.
+
+**Plan to attain Skills and Qualifications**
+
+Study a bachelor of IT with a focus on programming, internet and connected technologies,
+and cybersecurity. I could possibly pursue post graduate studies in electrical engineering
+to help solidify knowledge in more related areas.
+
+### Min
+
+![Job Advertisement](/idealJob.jpeg)
+
+**Description of Position**
+
+The position is cyber analyst in Australia Army. This position appealed to be because it has decent amount of yearly salary regardless of the experience, age and qualification.
+
+**Skills and Qualifications required**
+
+This role is to be part of the Army’s advanced ICT team, the Signallers. This job is to
+provide swift and precise solutions to identify and protect their systems against enemy
+hackers.
+
+**Current Skills and Qualifications**
+
+At the moment I have intermediate skills in IT because I just started to learn this degree.
+
+**Plan to attain Skills and Qualifications**
+
+Even though it says they do all the training without any qualification required in IT degree,
+I think some basic knowledge of IT is required in order to follow up the training they are
+providing.
+
+### Summary
+
+Within the Group there is a split down the middle. Matthew and Rashad look to further
+their studies to develop skills in programming and both hope to utilise this in their role.
+Min and Hayden look to further their studies to follow analytics and net development
+which include similar features. The steps and procedures to get to the engineering roles
+that Matthew and Rashad are very similar and include similar qualifications. Min and
+Hayden’s Qualifications do differ as they are in separate streams of Information
+technology. Even if there are similarities at the core of their roles, different
+specialisations will be needed. In terms of time frames to achieve the ideal job there is a
+general similarity in time frame with the groups average timeframe to achieve the ideal
+job being approximately 5 years with the maximum and minimum time frame alleviating
+approximately 1 year from that
 
 ## Industry Data
 
@@ -731,6 +875,50 @@ those with an illness during self-quarantine. Even though this project is focuse
 people can still use the device as their health tracker and later on when COVID-19 become less
 popular in our society, the app can contain other health alerts and tips and other health related
 informations.
+
+# Group Reflections
+
+### Min
+
+_What went well_
+
+Everyone pretty much had what they wanted to do, and we ended up deciding
+the parts equally.
+
+_What could be improved_
+
+It would be better if we started the assignment earlier so it can more
+organised in time
+
+_As least one thing that was surprising_
+
+Even though we started the assignment a bit later
+because the group was changed, everyone managed to finish their part on time and no one
+would complain on their part.
+
+_At least one thing that you have learned about groups_
+
+During group assignment I have learnt
+that having a frequent conversation is important in order to have good outcome. Asking
+questions to each other.
+
+### Hayden
+
+_What went well_
+
+We gelled well from the get-go and had no puch back on ideas. Strong communication & planned what each individual needed to contribute with ease.
+
+_What could be improved_
+
+Discussion on when each other were available/plan for whole assignment
+
+_As least one thing that was surprising_
+
+How well we got stuck in with no one complaining. Everyone completing their work on time & having effective contributions.
+
+_At least one thing that you have learned about groups_
+
+Having clear communication helps deliver a good outcome.
 
 # References
 
